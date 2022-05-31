@@ -21,7 +21,7 @@ const _ = {
         return {
             q: column[0] + ' ' + column[1],
             a: column[column.length - 1],
-            o: this.option(column)
+            o: _.option(column)
         }
     }
 }
