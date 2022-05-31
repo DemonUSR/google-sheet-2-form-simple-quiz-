@@ -66,6 +66,6 @@ function createFormfromSheet() {
         form.add.multipleChoiceItem(
             f,
             (_.question(columns[(columns.length - 1) - i]))
-        )
+        ) 
     }
 }
