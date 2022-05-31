@@ -1,10 +1,4 @@
-# google-sheet-2-form-simple-quiz-
 These was a AppScript code for creating new simple quiz form from current active sheet.
-
-# Attention
-- creating form from ACTIVE SHEET not full spreadsheet
-- only adds quiz question ( required mode ) 
-- any other changes you should make manually in form
 
 # How you should use
 1. Download Sample Sheet to know the format
@@ -19,3 +13,10 @@ These was a AppScript code for creating new simple quiz form from current active
 10. It will say unsafe Click on advance > to unsafe **
 11. Wait until it's executed. Hurraaaaayyyyyyyyyyy Done.
 12. After questions are added, Customize your form as you wish to.
+
+Video link will be uploaded soon...
+
+# Attention
+- creating form from ACTIVE SHEET not full spreadsheet
+- only adds quiz question ( required mode ) 
+- any other changes you should make manually in form
